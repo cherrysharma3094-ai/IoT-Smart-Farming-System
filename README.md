@@ -229,13 +229,7 @@ graph TD
 | **Harshdeep Singh** | Co-Developer & Testing | [@Deep007h](https://github.com/Deep007h) |
 | **Akashdeep** | *(coming soon)* | — |
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   <b>🌱 Empowering farmers with smart technology for a sustainable future.</b>
