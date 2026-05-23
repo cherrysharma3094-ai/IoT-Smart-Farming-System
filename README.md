@@ -1,7 +1,7 @@
 # 🌾 IoT Based Smart Farming System
 
 <p align="center">
-  <img src="Circuit%20Diagram.jpeg" alt="Project Banner" width="600"/>
+  <img src="main.png" alt="Project Banner" width="800"/>
 </p>
 
 <p align="center">
