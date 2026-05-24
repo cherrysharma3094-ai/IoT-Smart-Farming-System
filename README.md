@@ -221,13 +221,17 @@ graph TD
   <a href="https://github.com/Deep007h">
     <img src="https://img.shields.io/badge/Harshdeep%20Singh-Deep007h-blue?logo=github&style=for-the-badge" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AKASH-THAKUR24">
+    <img src="https://img.shields.io/badge/Akashdeep-AKASH--THAKUR24-blue?logo=github&style=for-the-badge" />
+  </a>
 </p>
 
 | Name | Role | GitHub |
 |------|------|--------|
 | **Chirag Sharma** | Developer & Circuit Design | [@cherrysharma3094-ai](https://github.com/cherrysharma3094-ai) |
 | **Harshdeep Singh** | Co-Developer & Testing | [@Deep007h](https://github.com/Deep007h) |
-| **Akashdeep** | *(coming soon)* | — |
+| **Akashdeep** | Co-Developer & Testing | [@AKASH-THAKUR24](https://github.com/AKASH-THAKUR24) |
 
 
 
